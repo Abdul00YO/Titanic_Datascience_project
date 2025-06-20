@@ -53,7 +53,7 @@ This notebook presents a complete machine learning pipeline on the classic Titan
 ---
 
 ## 📂 Files
-
+- `titanic.zip`- Dataset
 - `titanic_analysis.ipynb` – Full notebook  
 - `submission.csv` – Kaggle submission file  
 
@@ -61,7 +61,7 @@ This notebook presents a complete machine learning pipeline on the classic Titan
 
 ## 🔗 Connect with Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
+- 💼 **LinkedIn**: www.linkedin.com/in/abdullah-arshad-ds
 - 📁 **GitHub Repository**: [github.com/yourusername/titanic-ml](https://github.com/yourusername/titanic-ml)
 
 
