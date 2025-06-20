@@ -62,8 +62,7 @@ This notebook presents a complete machine learning pipeline on the classic Titan
 ## 🔗 Connect with Me
 
 - 💼 **LinkedIn**: www.linkedin.com/in/abdullah-arshad-ds
-- 📁 **GitHub Repository**: [github.com/yourusername/titanic-ml](https://github.com/yourusername/titanic-ml)
-
+- 📁 **GitHub Repository**: https://github.com/Abdul00YO/Titanic_Datascience_project
 
 
 ---
